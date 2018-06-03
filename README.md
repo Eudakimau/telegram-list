@@ -298,6 +298,7 @@
 * [Записки инженера](https://t.me/EngineersNotes) — Заметки по технологиям по ту сторону экрана. Электроника в глубоком смысле слова.
 * [ХабраХабр Pub.](https://t.me/habrapub) — Интересные публикации из 4PDA, Tproger и ХабраХабр в Telegram.
 * [HackRF One](https://t.me/hackrfnooelec) — Интересный канал про электронику и RF
+* [Рыбалов](https://t.me/rybalou) — Всё о рыбалке: cпособы ловли, рекомендации по снастям... Новости о рыбалке.
 
 [(Назад к меню)](#Меню)
 
@@ -418,6 +419,7 @@
 * [Functional Programming](https://t.me/fp_ru) — Чат любителей функциональных языков программирования
 * [CIL](https://t.me/cilchat) — Чат про CIL/IL/MSIL
 * [WebAssembly](https://t.me/WebAssembly_ru) — Чат про Webassembly
+* [Рыбалов_Чат](https://t.me/rybalouchat) — Чат про рыбалку
 
 [(Назад к меню)](#Меню)
 
